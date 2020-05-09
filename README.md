@@ -9,3 +9,13 @@ We model a percolation system using an N-by-N grid of sites. Each site is either
 
 ### The problem 
 In a famous scientific problem, researchers are interested in the following question: if sites are independently set to be open with probability p (and therefore blocked with probability 1 − p), what is the probability that the system percolates? When p equals 0, the system does not percolate; when p equals 1, the system percolates. The plots below show the site vacancy probability p versus the percolation probability for 20-by-20 random grid (left) and 100-by-100 random grid (right).
+
+### Percolation data type 
+To model a percolation system, create a data type Percolation with the following API:
+public class Percolation {
+   public Percolation(int N)               // create N-by-N grid, with all sites blocked
+   public void open(int i, int j)          // open site (row i, column j) if it is not open already
+   public boolean isOpen(int i, int j)     // is site (row i, column j) open?
+   public boolean isFull(int i, int j)     // is site (row i, column j) full?
+   public boolean percolates()             // does the system percolate?
+}
