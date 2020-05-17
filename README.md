@@ -1,6 +1,7 @@
 # Percolation
 https://introcs.cs.princeton.edu/java/assignments/percolation.html
-<img src="https://user-images.githubusercontent.com/45029937/80141856-7405b400-85bf-11ea-8581-57245c22b412.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/45029937/80142334-381f1e80-85c0-11ea-9fb8-cb1f4f66f57e.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/45029937/80141856-7405b400-85bf-11ea-8581-57245c22b412.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/45029937/80142334-381f1e80-85c0-11ea-9fb8-cb1f4f66f57e.png" width="30%"></img> 
 
 ### Percolation 
 Given a composite systems comprised of randomly distributed insulating and metallic materials: what fraction of the materials need to be metallic so that the composite system is an electrical conductor? Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom (or the oil to gush through to the surface)? Scientists have defined an abstract process known as percolation to model such situations.
