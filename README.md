@@ -2,6 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/45029937/80141856-7405b400-85bf-11ea-8581-57245c22b412.png" width="30%"></img> 
 <img src="https://user-images.githubusercontent.com/45029937/80142334-381f1e80-85c0-11ea-9fb8-cb1f4f66f57e.png" width="30%"></img> 
+
 Check the website [here](https://introcs.cs.princeton.edu/java/assignments/percolation.html)
 - based on Princeton university project.
 
