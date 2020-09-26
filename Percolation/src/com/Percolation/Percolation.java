@@ -33,7 +33,7 @@ public class Percolation
     }
 
 
-
+    // function to get index of an array
     private int getSingleArrayIndex(int i, int j)
     {
         doOutOfBoundsCheck(i, j);
